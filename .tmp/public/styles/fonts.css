@@ -1,0 +1,56 @@
+@font-face {
+	font-family: 'futurabkbt';
+	src: url('../fonts/tt0140m_.ttf');
+}
+
+@font-face {
+	font-family: 'futurabookbold';
+	src: url('../fonts/futura_book-bold_[allfont.ru].ttf');
+}
+
+@font-face {
+	font-family: 'futurabookc';
+	src: url('../fonts/futurabookc.otf');
+}
+
+@font-face {
+	font-family: 'roboto';
+	src: url('../fonts/roboto/Roboto-Light.ttf');
+	src: url('../fonts/roboto/Roboto-Bold.eot'), url('../fonts/roboto/Roboto-Bold.ttf'), url('../fonts/roboto/Roboto-Bold.woff'), url('../fonts/roboto/Roboto-Bold.woff2'), url('../fonts/roboto/Roboto-Light.eot'), url('../fonts/roboto/Roboto-Light.woff'), url('../fonts/roboto/Roboto-Light.woff2'), url('../fonts/roboto/Roboto-Medium.eot'), url('../fonts/roboto/Roboto-Medium.ttf'), url('../fonts/roboto/Roboto-Medium.woff'), url('../fonts/roboto/Roboto-Medium.woff2'), url('../fonts/roboto/Roboto-Regular.eot'), url('../fonts/roboto/Roboto-Regular.ttf'), url('../fonts/roboto/Roboto-Regular.woff'), url('../fonts/roboto/Roboto-Regular.woff2'), url('../fonts/roboto/Roboto-Thin.eot'), url('../fonts/roboto/Roboto-Thin.ttf'), url('../fonts/roboto/Roboto-Thin.woff'), url('../fonts/roboto/Roboto-Thin.woff2');
+}
+
+@font-face {
+	font-family: 'roboto_light';
+	src: url('../fonts/roboto/Roboto-Light.ttf'),
+		url('../fonts/roboto/Roboto-Light.eot'),
+		url('../fonts/roboto/Roboto-Light.woff'),
+		url('../fonts/roboto/Roboto-Light.woff2');
+}
+
+@font-face {
+	font-family: 'roboto_medium';
+	src: url('../fonts/roboto/Roboto-Medium.ttf'),
+		url('../fonts/roboto/Roboto-Medium.eot'),
+		url('../fonts/roboto/Roboto-Medium.woff'),
+		url('../fonts/roboto/Roboto-Medium.woff2');
+}
+
+@font-face {
+	font-family: 'roboto_regular';
+	src: url('../fonts/roboto/Roboto-Regular.ttf'),
+		url('../fonts/roboto/Roboto-Regular.eot'),
+		url('../fonts/roboto/Roboto-Regular.woff'),
+		url('../fonts/roboto/Roboto-Regular.woff2');
+}
+@font-face {
+	font-family: 'RobotoCondensed_Regular';
+	src: url('../fonts/roboto1/RobotoCondensed-Regular.ttf');
+}
+@font-face {
+	font-family: 'RobotoCondensed_Bold';
+	src: url('../fonts/roboto1/RobotoCondensed-Bold.ttf');
+}
+@font-face {
+	font-family: 'SofiaProLight';
+	src: url('../fonts/sofiapro-light.otf');
+}
